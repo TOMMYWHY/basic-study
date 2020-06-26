@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION  2.8.3)
+project(hello_cv_4_target_link_inner_lib)
+
+add_compile_options(-std=c++11) # 引入规则
+
+set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR/lib})
+set(LIBRARY_OUTPUT_NAME ${PROJECT_NAME})
+include_directories(include) # include .h
+
+add_library(hello_cv_4_lib SHARED src/hello_cv_1.cpp) # 动态库 xx.a
+add_executable(${PROJECT_NAME} src/main.cpp)
+target_link_libraries(${PROJECT_NAME} hello_cv_4_lib) # 链接动态库

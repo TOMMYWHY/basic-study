@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION  2.8.3)
+project(hello_cv_8_find_outer_lib)
+
+add_compile_options(-std=c++11) # 引入规则
+include_directories(include) # include .h
+add_library(hello_cv_7_install_lib STATIC src/hello_cv_1.cpp) 
+
+set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR/cmake})
+set(CMAKE_INSTALL_PREFIX ${PROJECT_SOURCE_DIR}/install)
+
+message(STATUS ${CMAKE_MODULE_PATH})
+message(STATUS ${CMAKE_INSTALL_PREFIX})
+
+install(FILES cmake/Findhllo_cv_7_install_lib.cmake DESTINATION cmake)
+install(FILES cmake/hllo_cv_1.h DESTINATION include)
+install(TARGETS hello_cv_7_install_lib  ARCHIVE DESTINATION lib)

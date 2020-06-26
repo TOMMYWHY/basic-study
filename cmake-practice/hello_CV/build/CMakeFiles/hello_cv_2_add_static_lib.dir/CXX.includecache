@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello_CV_1.h
+string
+-
+iostream
+-
+
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/src/hello_cv_1.cpp
+hello_CV_1.h
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/src/hello_CV_1.h
+string
+-
+iostream
+-
+

@@ -1,0 +1,7 @@
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/install/local.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/install/strip.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/install.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/list_install_components.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/rebuild_cache.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/edit_cache.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/CMakeFiles/hello_cv_7_install_lib.dir

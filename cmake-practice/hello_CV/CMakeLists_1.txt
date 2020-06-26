@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION  2.8.3)
+project(hello_cv_1)
+
+add_compile_options(-std=c++11) # 引入规则
+
+include_directories(include) # include .h
+add_executable(hello_cv_1 src/main.cpp src/hello_cv_1.cpp)
+

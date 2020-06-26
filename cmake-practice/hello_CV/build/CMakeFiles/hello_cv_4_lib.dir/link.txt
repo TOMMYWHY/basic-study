@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names  -o libhello_cv_4_lib.dylib -install_name /Users/Tommy/Desktop/studyInMassey/basic-study/cmake-practice/hello_CV/build/libhello_cv_4_lib.dylib CMakeFiles/hello_cv_4_lib.dir/src/hello_cv_1.cpp.o 
