@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include/MyStack.h">
+			<Option target="algorithm1"/>
+		</Unit>
 		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include/MyTree.h">
 			<Option target="algorithm1"/>
 		</Unit>

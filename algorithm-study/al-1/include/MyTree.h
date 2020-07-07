@@ -4,7 +4,7 @@
 
 #ifndef ALGORITHM1_MYTREE_H
 #define ALGORITHM1_MYTREE_H
-
+#include <string.h>
 template<class T>
 class MyTree{
     T data;
@@ -28,7 +28,12 @@ MyTree<T>::~MyTree() {}
 
 template<class T>
 void MyTree<T>::insertNode(const T &data, bool isChild) {
+    MyTree* pNew=new MyTree;
+    memset(pNew,0,sizeof(MyTree));
+    pNew->data=data;
+    if(isChild){
 
+    }else{}
 }
 
 
