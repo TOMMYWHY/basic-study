@@ -3,12 +3,13 @@
 
 using namespace std;
 
-
+/* N-tree */
 #if 1
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    vector<int>v;
 
+#include "MyTree.h"
+int main() {
+//    std::cout << "Hello, World!" << std::endl;
+    MyTree<int>tree;
     return 0;
 }
 #endif
