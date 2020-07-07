@@ -9,8 +9,9 @@ set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -O0")
 set(CMAKE_C_FLAGS_DEBUG "${CMAKE_C_FLAGS_DEBUG} -O0")
 
 
-
+#DFS BFS
 set(SOURCE_FILES src/main.cpp include/MyTree.h include/MyStack.h)
+#set(SOURCE_FILES src/Astar.cpp)
 
 add_executable(algorithm1 ${SOURCE_FILES} ${PROJECT_HEADERS} )
 
