@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24710a93-e450-492a-b96f-aeb5d33709dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo01/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.yarn-integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../torch-study/.ipynb_checkpoints/t13RNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../torch-study/.ipynb_checkpoints/t13RNN-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../torch-study/t13RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../torch-study/t13RNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eJCxgJI27ahg0sL7LWe8Kp2uXK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24710a93-e450-492a-b96f-aeb5d33709dd" name="Default Changelist" comment="" />
+      <created>1594030556864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594030556864</updated>
+      <workItem from="1594030559021" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1788" y="100" key="SettingsEditor" timestamp="1594030617559">
+      <screen x="0" y="23" width="3793" height="1057" />
+    </state>
+    <state x="1788" y="100" key="SettingsEditor/-1440.203.1440.877/0.23.3793.1057@0.23.3793.1057" timestamp="1594030617559" />
+  </component>
+</project>

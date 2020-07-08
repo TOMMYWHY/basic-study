@@ -1,0 +1,40 @@
+"/Users/Tommy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/test
+-- The C compiler identification is Clang 4.0.1
+-- The CXX compiler identification is Clang 4.0.1
+-- Check for working C compiler: /Users/Tommy/opt/anaconda3/bin/x86_64-apple-darwin13.4.0-clang
+-- Check for working C compiler: /Users/Tommy/opt/anaconda3/bin/x86_64-apple-darwin13.4.0-clang -- broken
+CMake Error at /Users/Tommy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/share/cmake-3.16/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "/Users/Tommy/opt/anaconda3/bin/x86_64-apple-darwin13.4.0-clang"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/test/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):/usr/bin/make cmTC_bfaae/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_bfaae.dir/build.make CMakeFiles/cmTC_bfaae.dir/build
+    Building C object CMakeFiles/cmTC_bfaae.dir/testCCompiler.c.o
+    /Users/Tommy/opt/anaconda3/bin/x86_64-apple-darwin13.4.0-clang   -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_bfaae.dir/testCCompiler.c.o   -c /Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/test/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+    Linking C executable cmTC_bfaae
+    "/Users/Tommy/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E cmake_link_script CMakeFiles/cmTC_bfaae.dir/link.txt --verbose=1
+    /Users/Tommy/opt/anaconda3/bin/x86_64-apple-darwin13.4.0-clang -march=core2 -mtune=haswell -mssse3 -ftree-vectorize -fPIC -fPIE -fstack-protector-strong -O2 -pipe  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Wl,-pie -Wl,-headerpad_max_install_names -Wl,-dead_strip_dylibs  CMakeFiles/cmTC_bfaae.dir/testCCompiler.c.o  -o cmTC_bfaae 
+    ld: warning: ignoring file /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libSystem.tbd, file was built for unsupported file format ( 0x2D 0x2D 0x2D 0x20 0x21 0x74 0x61 0x70 0x69 0x2D 0x74 0x62 0x64 0x2D 0x76 0x33 ) which is not the architecture being linked (x86_64): /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libSystem.tbd
+    ld: dynamic main executables must link with libSystem.dylib for architecture x86_64
+    clang-4.0: error: linker command failed with exit code 1 (use -v to see invocation)
+    make[1]: *** [cmTC_bfaae] Error 1
+    make: *** [cmTC_bfaae/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/test/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/test/cmake-build-debug/CMakeFiles/CMakeError.log".

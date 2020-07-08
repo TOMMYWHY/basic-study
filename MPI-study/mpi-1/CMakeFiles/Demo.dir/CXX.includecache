@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/main.cpp
+iostream
+-
+iostream
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/iostream
+mpi.h
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/mpi.h
+
+/usr/local/Cellar/mpich/3.3.2_1/include/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/local/Cellar/mpich/3.3.2_1/include/mpio.h
+mpicxx.h
+/usr/local/Cellar/mpich/3.3.2_1/include/mpicxx.h
+
+/usr/local/Cellar/mpich/3.3.2_1/include/mpicxx.h
+stdio.h
+-
+
+/usr/local/Cellar/mpich/3.3.2_1/include/mpio.h
+mpi.h
+/usr/local/Cellar/mpich/3.3.2_1/include/mpi.h
+

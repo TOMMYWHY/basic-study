@@ -1,0 +1,3 @@
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/CMakeFiles/rebuild_cache.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/CMakeFiles/edit_cache.dir
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/CMakeFiles/Demo.dir
