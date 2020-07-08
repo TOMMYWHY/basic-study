@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/main.cpp" "/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeFiles/algorithm1.dir/src/main.cpp.o"
+  "/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp" "/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeFiles/algorithm1.dir/src/Astar.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

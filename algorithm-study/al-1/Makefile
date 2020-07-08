@@ -123,32 +123,32 @@ algorithm1/fast:
 	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/build
 .PHONY : algorithm1/fast
 
-src/main.o: src/main.cpp.o
+src/Astar.o: src/Astar.cpp.o
 
-.PHONY : src/main.o
+.PHONY : src/Astar.o
 
 # target to build an object file
-src/main.cpp.o:
-	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/main.cpp.o
-.PHONY : src/main.cpp.o
+src/Astar.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/Astar.cpp.o
+.PHONY : src/Astar.cpp.o
 
-src/main.i: src/main.cpp.i
+src/Astar.i: src/Astar.cpp.i
 
-.PHONY : src/main.i
+.PHONY : src/Astar.i
 
 # target to preprocess a source file
-src/main.cpp.i:
-	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/main.cpp.i
-.PHONY : src/main.cpp.i
+src/Astar.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/Astar.cpp.i
+.PHONY : src/Astar.cpp.i
 
-src/main.s: src/main.cpp.s
+src/Astar.s: src/Astar.cpp.s
 
-.PHONY : src/main.s
+.PHONY : src/Astar.s
 
 # target to generate assembly for a file
-src/main.cpp.s:
-	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/main.cpp.s
-.PHONY : src/main.cpp.s
+src/Astar.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm1.dir/build.make CMakeFiles/algorithm1.dir/src/Astar.cpp.s
+.PHONY : src/Astar.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... algorithm1"
-	@echo "... src/main.o"
-	@echo "... src/main.i"
-	@echo "... src/main.s"
+	@echo "... src/Astar.o"
+	@echo "... src/Astar.i"
+	@echo "... src/Astar.s"
 .PHONY : help
 
 

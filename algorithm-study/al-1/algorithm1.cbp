@@ -88,7 +88,7 @@
 		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include/MyTree.h">
 			<Option target="algorithm1"/>
 		</Unit>
-		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/main.cpp">
+		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp">
 			<Option target="algorithm1"/>
 		</Unit>
 		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeLists.txt">

@@ -57,27 +57,27 @@ include CMakeFiles/algorithm1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithm1.dir/flags.make
 
-CMakeFiles/algorithm1.dir/src/main.cpp.o: CMakeFiles/algorithm1.dir/flags.make
-CMakeFiles/algorithm1.dir/src/main.cpp.o: src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm1.dir/src/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm1.dir/src/main.cpp.o -c /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/main.cpp
+CMakeFiles/algorithm1.dir/src/Astar.cpp.o: CMakeFiles/algorithm1.dir/flags.make
+CMakeFiles/algorithm1.dir/src/Astar.cpp.o: src/Astar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm1.dir/src/Astar.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm1.dir/src/Astar.cpp.o -c /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp
 
-CMakeFiles/algorithm1.dir/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm1.dir/src/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/main.cpp > CMakeFiles/algorithm1.dir/src/main.cpp.i
+CMakeFiles/algorithm1.dir/src/Astar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm1.dir/src/Astar.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp > CMakeFiles/algorithm1.dir/src/Astar.cpp.i
 
-CMakeFiles/algorithm1.dir/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm1.dir/src/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/main.cpp -o CMakeFiles/algorithm1.dir/src/main.cpp.s
+CMakeFiles/algorithm1.dir/src/Astar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm1.dir/src/Astar.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp -o CMakeFiles/algorithm1.dir/src/Astar.cpp.s
 
 # Object files for target algorithm1
 algorithm1_OBJECTS = \
-"CMakeFiles/algorithm1.dir/src/main.cpp.o"
+"CMakeFiles/algorithm1.dir/src/Astar.cpp.o"
 
 # External object files for target algorithm1
 algorithm1_EXTERNAL_OBJECTS =
 
-algorithm1: CMakeFiles/algorithm1.dir/src/main.cpp.o
+algorithm1: CMakeFiles/algorithm1.dir/src/Astar.cpp.o
 algorithm1: CMakeFiles/algorithm1.dir/build.make
 algorithm1: CMakeFiles/algorithm1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm1"
