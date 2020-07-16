@@ -1,4 +1,0 @@
-/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/test/CMakeFiles/rebuild_cache.dir
-/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/test/CMakeFiles/edit_cache.dir
-/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/test/CMakeFiles/barcodes.dir
-/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/test/CMakeFiles/test.dir
