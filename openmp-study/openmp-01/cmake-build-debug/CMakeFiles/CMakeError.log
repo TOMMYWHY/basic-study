@@ -1,0 +1,13 @@
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /Users/Tommy/Desktop/studyInMassey/basic-study/openmp-study/openmp-01/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/Library/Developer/CommandLineTools/usr/bin/make cmTC_3a01c/fast && /Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_3a01c.dir/build.make CMakeFiles/cmTC_3a01c.dir/build
+Building C object CMakeFiles/cmTC_3a01c.dir/test_mpi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -isystem /usr/local/Cellar/mpich/3.3.2_1/include  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmTC_3a01c.dir/test_mpi.c.o   -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.16/Modules/FindMPI/test_mpi.c
+error: unable to rename temporary 'CMakeFiles/cmTC_3a01c.dir/test_mpi.c-544736aa.o.tmp' to output file 'CMakeFiles/cmTC_3a01c.dir/test_mpi.c.o': 'No such file or directory'
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_3a01c.dir/test_mpi.c.o] Error 1
+make: *** [cmTC_3a01c/fast] Error 2
+
+
+
