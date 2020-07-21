@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/main.cpp" "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/CMakeFiles/Demo.dir/src/main.cpp.o"
+  "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/first.cpp" "/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/CMakeFiles/Demo.dir/src/first.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -9,7 +9,8 @@ include_directories(${MPI_INCLUDE_PATH})
 
 SET(CMAKE_CXX_COMPILER mpicxx)
 
-set(SOURCE_FILES src/main.cpp)
+#set(SOURCE_FILES src/main.cpp)
+set(SOURCE_FILES src/first.cpp)
 
 
 

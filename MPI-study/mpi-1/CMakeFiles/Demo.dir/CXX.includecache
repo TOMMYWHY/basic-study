@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/main.cpp
-iostream
+/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/first.cpp
+stdio.h
+-
+stdlib.h
 -
 iostream
-/Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/iostream
+-
 mpi.h
 /Users/Tommy/Desktop/studyInMassey/basic-study/MPI-study/mpi-1/src/mpi.h
 

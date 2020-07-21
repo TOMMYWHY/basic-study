@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="openmpDemo" targetName="openmpDemo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d669ee9-8169-4eaa-8c64-ab9733f48f26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../algorithm-study/rf/.idea/rf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm-study/rf/.idea/rf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm-study/rf/value_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm-study/rf/value_iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/openmp-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openmp-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Build/Intermediates.noindex/XCBuildData/PIFCache/project/PROJECT@v11_mod=1594608042.4096203_hash=11f5a090d20bf146b3d93d16138c36d5-json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Build/Intermediates.noindex/XCBuildData/PIFCache/target/TARGET@v11_hash=b40f5aa71c808f53fc27ba01aafb1e98-json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Build/Intermediates.noindex/XCBuildData/PIFCache/workspace/WORKSPACE@v11_hash=2d3e6591b670e54f2621ac2bdbbe6ec6_subobjects=52dc60973243b0cbaf2f0ff1f0dd8328-json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Index/UniDB/cv_test.xcindex/v13/p69133/data.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Index/UniDB/cv_test.xcindex/v13/p69133/lock.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Build/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Install/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Issues/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Package/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Run/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Test/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/Logs/Update Signing/LogStoreManifest.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/DerivedData/cv_test/scm.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test.xcodeproj/project.xcworkspace/xcuserdata/Tommy.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test.xcodeproj/xcuserdata/Tommy.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/cv_test/cv_test/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1enV8MuKH7eK6rFpPncVran7X3q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="openmpDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openmpDemo" TARGET_NAME="openmpDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openmpDemo" RUN_TARGET_NAME="openmpDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d669ee9-8169-4eaa-8c64-ab9733f48f26" name="Default Changelist" comment="" />
+      <created>1594957183378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594957183378</updated>
+      <workItem from="1594957201740" duration="91000" />
+      <workItem from="1594957358805" duration="1230000" />
+      <workItem from="1594960844518" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1063" height="290" key="GridCell.Tab.0.bottom" timestamp="1594959310673">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state width="1063" height="290" key="GridCell.Tab.0.bottom/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1594959310673" />
+    <state width="1063" height="290" key="GridCell.Tab.0.center" timestamp="1594959310672">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state width="1063" height="290" key="GridCell.Tab.0.center/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1594959310672" />
+    <state width="1063" height="290" key="GridCell.Tab.0.left" timestamp="1594959310672">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state width="1063" height="290" key="GridCell.Tab.0.left/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1594959310672" />
+    <state width="1063" height="290" key="GridCell.Tab.0.right" timestamp="1594959310673">
+      <screen x="0" y="23" width="3792" height="1057" />
+    </state>
+    <state width="1063" height="290" key="GridCell.Tab.0.right/-1440.203.1440.877/0.23.3792.1057@0.23.3792.1057" timestamp="1594959310673" />
+  </component>
+</project>
