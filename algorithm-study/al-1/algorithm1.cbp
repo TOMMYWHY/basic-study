@@ -11,30 +11,30 @@
 				<Option working_dir="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
 				<Option working_dir="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm1">
@@ -47,16 +47,16 @@
 					<Add directory="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 algorithm1"/>
-					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 algorithm1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="algorithm1/fast">
@@ -69,16 +69,16 @@
 					<Add directory="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 algorithm1/fast"/>
-					<CompileFile command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/Library/Developer/CommandLineTools/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 algorithm1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
@@ -88,7 +88,10 @@
 		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/include/MyTree.h">
 			<Option target="algorithm1"/>
 		</Unit>
-		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp">
+		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/LPAstar.cpp">
+			<Option target="algorithm1"/>
+		</Unit>
+		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/TreeNode.h">
 			<Option target="algorithm1"/>
 		</Unit>
 		<Unit filename="/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/CMakeLists.txt">

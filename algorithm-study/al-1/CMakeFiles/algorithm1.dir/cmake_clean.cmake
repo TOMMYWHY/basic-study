@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm1.dir/src/Astar.cpp.o"
+  "CMakeFiles/algorithm1.dir/src/LPAstar.cpp.o"
   "algorithm1"
   "algorithm1.pdb"
 )

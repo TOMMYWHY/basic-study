@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/Astar.cpp
+/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/LPAstar.cpp
 iostream
 -
 vector
 -
+TreeNode.h
+/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/TreeNode.h
 MyTree.h
 /Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/MyTree.h
+
+/Users/Tommy/Desktop/studyInMassey/basic-study/algorithm-study/al-1/src/TreeNode.h
+vector
+-
 
 include/MyTree.h
 string.h
